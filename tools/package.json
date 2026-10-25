@@ -1,0 +1,6 @@
+{
+  "name": "furnite-screenshot-tools",
+  "private": true,
+  "scripts": { "capture": "node capture_screenshots.cjs" },
+  "devDependencies": { "playwright": "^1.56.0" }
+}
